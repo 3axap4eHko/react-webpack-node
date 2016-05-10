@@ -1,0 +1,17 @@
+.product-list {
+    width: 800px;
+    min-height: 200px;
+    float: left;
+}
+
+.product-list__header {
+
+}
+
+.product-list__items {
+    list-style: none;
+}
+
+.product-list__pagination {
+
+}

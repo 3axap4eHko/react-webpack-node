@@ -1,0 +1,29 @@
+.product-form {
+    width: 250px;
+    float: left;
+}
+.product-form__group {
+    width: 100%;
+}
+.product-form__group > * {
+    width: 100%;
+    display: block;
+}
+
+.product-form__control  {
+    width: 100%;
+    display: block;
+}
+.product-form__button_left {
+    float: left;
+    width: 100px;
+    color: #fff;
+    background-color: #f00;
+}
+.product-form__button_right {
+    float: right;
+    width: 100px;
+    color: #fff;
+    background-color: #0f0;
+
+}

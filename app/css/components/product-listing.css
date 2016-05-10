@@ -1,0 +1,11 @@
+.product-listing {
+    width: 100%;
+}
+.product-listing__header {
+    width: 100%;
+    text-align: center;
+}
+.product-listing__body {
+    margin: 0 auto;
+    width: 1100px;
+}
